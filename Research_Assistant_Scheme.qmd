@@ -16,7 +16,7 @@ Chosen students will work as RAs under the supervision of staff members or PhD s
 
 ## How to advertise for a Voluntary RA
 
-If you wish to advertise for a volunteer research assistant to work on your research project, please fill out the template attached and provide a short description of the research project(s) you would like your potential RAs to be working on by [**date**]{style="color:red;"}. Please note the projects from last year will not be consulted, so you will not have any project listed if you do not provide me project titles this time. Once I have collated all the projects, I will advertise them to students from Level 4 to Level 7 inviting applications.
+If you wish to advertise for a volunteer research assistant to work on your research project, please fill out the [Research Assistant Scheme Project Description Form](https://forms.office.com/e/R47h4KC7P9?origin=lprLink) by [**date**]{style="color:red;"}. Please note the projects from last year will not be consulted, so you will not have any project listed if you do not provide me project titles this time. Once I have collated all the projects, I will advertise them to students from Level 4 to Level 7 inviting applications.
 
 ## What you need to send
 
@@ -28,8 +28,7 @@ RA applications will be received during a period of two weeks after the scheme a
 
 ## Deadlines
 
-* [**date**]{style="color:red;"} – [**date**]{style="color:red;"}: Project summaries to be sent to Matt using the link below. If you're reading this in Word then control-click on the link.
-  * [mgreen@bournemouth.ac.uk?subject=Voluntary RA Scheme Application](mailto:mgreen@bournemouth.ac.uk?subject=Voluntary RA Scheme Application)
+* [**date**]{style="color:red;"} – [**date**]{style="color:red;"}: Project summaries to be sent to Matt
 * [**date**]{style="color:red;"} -- [**date**]{style="color:red;"}: Students will apply for RA positions. No interviews should be held or requested until this application week has finished.
 * [**date**]{style="color:red;"} onwards: Interviews may be arranged and held for positions, and candidates may be given positions.
 
@@ -51,4 +50,4 @@ Successful RA applicants should be encouraged to clarify their expectations from
 
 PhD students are welcome to use this scheme to have RAs on their own projects providing they have the support of their supervisor. Whilst the PhD student will be involved with the week to week management of the RA, the PhD supervisor will ultimately be responsible for the RA. If an advert is sent for an RA for a PhD student, the supervisor must either be the one to send the advert, stating that they are sending the advert on the PhD student's behalf, or the supervisor must send the RA acknowledgement of the supervisor's support of the PhD student's advert.
 
-<!-- [**date**]{style="color:red;"} -->
+
