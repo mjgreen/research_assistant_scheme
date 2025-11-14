@@ -1,0 +1,33 @@
+{
+    "id": "9D021978",
+    "path": "~/gits/research_assistant_scheme/Research_Assistant_Scheme.qmd",
+    "project_path": "Research_Assistant_Scheme.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1763128127547.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "22,299",
+        "scrollLine": "3",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "99:0",
+        "quartoPreviewFormat": "docx"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1763126660,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1763128235869,
+    "read_only": false,
+    "read_only_alternatives": []
+}
